@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/js.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/js.jpeg">
 
 *E10: Reflect on Javascript 1*
 
