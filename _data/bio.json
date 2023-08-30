@@ -38,7 +38,7 @@
       "studyType": "B.S.",
       "startDate": "2023",
       "endDate": "Present",
-      "courses": [ICS 111 - Intro to Computer Science I (Java)
+      
     
       ]
     }
@@ -52,9 +52,10 @@
       "endDate": "Present",
       "summary": "Accounting/Budgeting Staff for Fiscal Office",
       "highlights": [
-        "oversees departmental planning, budgeting (operating and capital), program evaluation,",
-        "organizational analysis, research, statistics, IT services, procurement, contracting,",
-        "property management, records/forms, and centralized office services."
+          "Examine vouchered claims against the State to ensure appropriateness and compliance with laws and regulations.",
+          "Review payroll claims for compliance with established laws and policies.",
+          "Supervise or participate in clerical pre-auditing for vouchered and payroll claims, ensuring adherence to various regulations.",
+        
       ]
     },
     {
@@ -65,8 +66,12 @@
       "endDate": "2021",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain accurate merchandise data across POS systems",
+        "Collaborate with various departments",
+        "Generate reports and ensure timely updates",
+        "Manage SKU, PLU, UPC information",
+        "Process requests related to merchandise",
+        "Support strategic initiatives through admin tasks and communication."
       ]
     }
   ],
@@ -75,8 +80,8 @@
       "organization": "Fall 2022 and Spring 2023 Student Undergraduate Research Fair (SURF)",
       "website": "https://kapcc-research.wixsite.com/surf",
       "position": "Student Room Facilitator",
-      "startDate": "Fall 2022",
-      "endDate": "Spring 2023",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "The annual event, hosted by Kapiolani Community College, showcases student research and provides valuable research experiences.",
       "highlights": [
         "The STEM Undergraduate Research Fair (S.U.R.F.) highlights STEM Program students'",
