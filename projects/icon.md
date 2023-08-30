@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/wordcloud.jpg
-title: "Welcome to Our Iconography Exploration Project"
+title: "Iconography Exploration"
 date: 2021
 published: true
 labels:
@@ -10,13 +10,13 @@ labels:
   - Culture
   - Religion
   - Goddesses
-summary: "Dive into the world of goddesses through our captivating project!"
+summary: "Dive into the world of goddesses through my captivating project!"
 ---
 
 <div class="text-center p-4"><img class="img-fluid" src="../img/iconbanner.png" > </div>
 
-### Welcome to my Iconography Exploration Project
-**🌟 The Journey Unveiled**
+
+### **🌟 The Journey Unveiled**
 
 In this captivating journey, we've delved into the rich tapestry of cultures, spanning China, Taiwan, India, Aotearoa, Hawaii, Native America, the Arctic, and Mesoamerica. I've brought these symbolic treasures to life through the enchanting medium of clay carving.
 
