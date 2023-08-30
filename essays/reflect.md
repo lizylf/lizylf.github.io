@@ -11,11 +11,11 @@ labels:
 
 <div class="text-center p-4"><img class="img-fluid" src="../img/jsbanner.png"></div>
 
-Starting my journey with JavaScript has been a rollercoaster of emotions and experiences. As a newcomer to the language, I've encountered both frustration and enlightenment as I navigate the intricacies of this programming language. While it may not be my favorite language to work with, I've come to appreciate the unique challenges it presents and the growth it has sparked in me.
+Starting my journey with JavaScript has been a rollercoaster of emotions and experiences. As a newcomer to the language, I've encountered both frustration and enlightenment as I navigate the difficulty of this programming language. While it may not be my favorite language to work with, I've come to appreciate the unique challenges it presents and the growth it has sparked in me.
 
-One of the initial challenges I faced with JavaScript is the need to type out every piece of code, including reserved identifiers. Coming from a background in languages like Java, C/C++, and Python, where some level of automation is available, this aspect of JavaScript felt laborious and time-consuming. The fear of making typos and syntax errors loomed over me as I attempted to write clean and functional code.
+One of the initial challenges I faced with JavaScript is the need to type out every piece of code, including reserved identifiers. Coming from a background in languages like Java, C/C++, and Python, where some level of automation is available, this aspect of JavaScript felt challenging and time-consuming. The fear of making typos and syntax errors loomed over me as I attempted to write clean and functional code.
 
-However, delving into ES6 (ECMAScript 6) proved to be a game-changer. This latest version of JavaScript introduced me to a whole new set of features and functionalities that I had never encountered before. The arrow functions, destructuring, and template literals were like pieces of a puzzle falling into place. While still challenging, ES6 opened my eyes to the power and flexibility that JavaScript has to offer.
+However, delving into freecodecamp.org and ES6 proved to be a game-changer. This latest version of JavaScript introduced me to a whole new set of features and functionalities that I had never encountered before. The arrow functions, destructuring, and template literals were like pieces of a puzzle falling into place. 
 
 Despite my initial reservations, the practice of WODs (Workout of the Day) has been instrumental in my learning journey. These exercises not only prepared me for the class WODs but also allowed me to get a taste of the real-world challenges that I could potentially face as a software engineer. While the pressure of timed quizzes can be daunting, they have pushed me to think on my feet and apply my knowledge in a fast-paced environment.
 
