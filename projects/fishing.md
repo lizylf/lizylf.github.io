@@ -14,7 +14,7 @@ summary: "Final Project for my ICS 211 class."
 <div class="text-center p-4"><img class="img-fluid" src="../img/fishing.jpg"></div>
 
   In my final project for my ICS 211 class, I collaborated with two teammates to create an engaging fishing game that aimed to simulate the excitement of a fishing tournament. The game was designed to be played by two alternating players on the same computer, with each player attempting to catch fish and build a "sack" of fish. The game followed a structured set of rules and mechanics to ensure an immersive and competitive experience.
-The project encompassed three distinct phases: Loko i'a (Fish Pond) Setup, Lawa i'a (Fishing), and Game Over.
+The project encompassed three distinct phases: Loko i'a (Fish Pond) Setup, Lawai'a (Fishing), and Game Over.
 
 
 
@@ -63,11 +63,11 @@ Other outcomes would be:
 or
  Your fish got away!
 
-
-<hr>
+</pre>
   
 Game Phase 3 - Game Over: 
 Upon completion of 12 months of turns, the game transitioned to its final phase. In this phase, the fish sacks of both players were evaluated, focusing on the three largest fish by length. The player with the greatest cumulative length of their top three fish was declared the winner of the fishing tournament.
 Throughout the project, we implemented different fish families (Pua_ama, Ohua/Uhu, Oama/Weke) as parent classes. These families had unique characteristics, such as legal sizes, seasons, and valid catch methods. Concepts such as inheritance, abstract classes, and interfaces in Java were employed to model these diverse fish families accurately.
 This project was not only an exercise in technical implementation but also a lesson in collaborative teamwork. It provided valuable insights into Java programming concepts, including inheritance, interfaces, and abstract classes. Additionally, the project underscored the importance of effective group communication and coordination in the context of coding collaboration.
 
+Source: <a href="https://github.com/ICSatKCC/assignment-8---final-project-fishing-game---s22-assignment-8-group-3">final-project-fishing-game</a>
