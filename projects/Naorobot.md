@@ -12,8 +12,8 @@ labels:
 summary: "Programming for Basic Artificial Intelligence using NAO Robots and Choregraphe"
 ---
 
-### Introducing NAO, Your Friendly Robot Pal! 🤖
 <div class="text-center p-4"><img class="img-fluid" src="../img/naoBanner.jpg" ></div>
+### Introducing NAO, Your Friendly Robot Pal! 🤖
 
 As part of our engagement in SCI 295CS (STEM Research Experience in Computer Science) at Kapiolani Community College, my peers and I embarked on an exciting research project involving the NAO robot. Created by Aldebaran Robotics in 2005, NAO is a groundbreaking humanoid robot recognized for its advanced capabilities. Equipped with an array of sophisticated sensors, NAO replicates human behavior with remarkable precision. Evolving into its 6th iteration, NAO has become the standard in educational and research robotics. Our project, which we proudly presented at the Student Undergraduate Research Fair (SURF), explored the diverse applications of NAO programming.
 
@@ -25,18 +25,20 @@ The process of programming NAO was facilitated through Choregraphe, offering two
 1. **Drag-and-Drop Method:** We harnessed a drag-and-drop interface, drawing actions from the libraries and arranging them into a flow diagram, similar to the visual programming tool Scratch.
 2. **Custom Scripting:** In Choregraphe, we crafted personalized modules and utilized the Script Editor to script our actions. While I opted for Python, NAO supports other languages like Java and C++.
 
-
+---
 **Unleashing NAO's Potential**
 
 Given NAO's humanoid nature, a world of possibilities emerged. My focus centered on NAO's motion capabilities, with a mission to transform it into an exercise companion. I choreographed sequences where NAO would rise, lift its arms, move in various directions, execute arm maneuvers, and gracefully return to a seated posture.
+
+
  
-### **Navigating the Learning Curve**
+**Navigating the Learning Curve**
 
 Engaging with NAO marked my initiation into robotics. This endeavor illuminated the mechanics of Choregraphe and introduced me to Python's role in artificial intelligence. The journey was challenging; we encountered issues ranging from connectivity disruptions to facial and voice recognition complexities. My project involved programming NAO to suggest beverages, elaborating on the benefits of each choice. NAO would inquire about tea, juice, coffee, or no-drink preferences. The chosen category would then branch into sub-selections.
 
 ---
 
-**The Art of Categorization** 
+### **The Art of Categorization** 
 
 
 Imagine stepping into a world where a friendly robot named Nao becomes your personal drink connoisseur. I've transformed Nao the robot into your personal drink connoisseur, suggesting a range of beverages and spilling the beans on their awesome benefits! Picture this: Nao's ready to play bartender and pops the question – Do you crave tea, juice, coffee, or a daring pass on drinks?
