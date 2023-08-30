@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/lizylf.png",
     "email": "lizylf@hawaii.edu",
-    "phone": "808-394-7544",
+    
     "website": "https://lizylf.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": { "1137 Kamehameha IV Road": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -36,7 +36,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
-      "startDate": "2023",
+      "startDate": "2021",
       "endDate": "Present",
       
     
