@@ -9,9 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="img-fluid" src="../img/js.jpeg">
-
-# Embarking on a Journey with JavaScript: Navigating Challenges and Embracing Growth" 
+<img class="img-fluid" src="../img/js.jpeg"><a href = "#Embarking on a Journey with JavaScript: Navigating Challenges and Embracing Growth"</a>
 
 Starting my journey with JavaScript has been a rollercoaster of emotions and experiences. As a newcomer to the language, I've encountered both frustration and enlightenment as I navigate the intricacies of this programming language. While it may not be my favorite language to work with, I've come to appreciate the unique challenges it presents and the growth it has sparked in me.
 
