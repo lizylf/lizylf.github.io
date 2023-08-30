@@ -8,11 +8,12 @@ published: true
 labels:
   - Java
   - GitHub
-summary: "Final Project for my ICS 211 class."
+summary: "Dive into the thrilling virtual waters of my ICS 211 Final project, a collaborative fishing game, where players strategize, cast lines, and compete to build the ultimate fish stash and be crowned the fishing tournament champion."
 ---
 
 <div class="text-center p-4"><img class="img-fluid" src="../img/bannerfish.jpg"></div>
 
+### **Immersing in the Adventure of Aquatic Challenge** 
 In my final project for my ICS 211 class, I collaborated with two teammates to create an engaging fishing game that aimed to simulate the excitement of a fishing tournament. The game was designed to be played by two alternating players on the same computer, with each player attempting to catch fish and build a "sack" of fish. The game followed a structured set of rules and mechanics to ensure an immersive and competitive experience.
 The project encompassed three distinct phases: Loko i'a (Fish Pond) Setup, Lawai'a (Fishing), and Game Over.
 
