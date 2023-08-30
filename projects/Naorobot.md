@@ -13,7 +13,7 @@ summary: "Programming for Basic Artificial Intelligence using NAO Robots and Cho
 ---
 
 ### Meet NAO, a humanoid robot!
-<img class="img-fluid" src="../img/1n.jpg" height="400" width="260>
+<img class="img-fluid" src="../img/1n.jpg" height="400" width="260">
 
 For our class research project in SCI 295CS (STEM Research Experience in Computer Science) at Kapiolani Community College, my fellow classmates and I collaborated with the NAO robot. Developed by Aldebaran Robotics in 2005, NAO stands as the pioneering humanoid robot. It is equipped with a multitude of built-in sensors that meticulously replicate human behavior. Currently in its 6th iteration, NAO has gained widespread recognition as the standard robot utilized for educational and research endeavors. Our project embraced a relatively open structure, granting each of us the liberty to delve into the potential applications of programming NAO. As the semester drew to a close, we showcased our work at the Student Undergraduate Research Fair (SURF).
 
