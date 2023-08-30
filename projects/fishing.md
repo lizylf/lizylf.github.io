@@ -30,9 +30,10 @@ The core gameplay revolved around the fishing phase. This stage spanned a "year"
 If a player managed to successfully catch a fish, they were presented with the option to either keep or release it. Legal considerations, such as the fish's size and the current month, were important factors in deciding whether to keep the fish. Legal fish that met the size criteria were added to the player's sack, which was maintained as a sorted ArrayList based on fish length. In contrast, illegal fish resulted in the confiscation of the player's entire fish sack.
 Players were also granted the option to view the contents of their fish sack and release specific fish back into the pond. This feature proved valuable as the fish population within the pond gradually declined over time.
 
+---
 <pre>
   
-###EXAMPLE OF GAMEPLAY:
+### EXAMPLE OF GAMEPLAY:
 Player 1, it is your turn! 
 * Choose:
   1. Cast out for a fish
@@ -64,7 +65,8 @@ or
  Your fish got away!
 
 </pre>
-  
+---
+
 * **Game Phase 3** - Game Over:  
 Upon completion of 12 months of turns, the game transitioned to its final phase. In this phase, the fish sacks of both players were evaluated, focusing on the three largest fish by length. The player with the greatest cumulative length of their top three fish was declared the winner of the fishing tournament.
 Throughout the project, we implemented different fish families (Pua_ama, Ohua/Uhu, Oama/Weke) as parent classes. These families had unique characteristics, such as legal sizes, seasons, and valid catch methods. Concepts such as inheritance, abstract classes, and interfaces in Java were employed to model these diverse fish families accurately.
