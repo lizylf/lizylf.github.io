@@ -13,7 +13,7 @@ labels:
 summary: "Dive into the world of goddesses through our captivating project!."
 ---
 
-<div class="text-center p-4"><img class="img-fluid" src="../img/iconbanner"></div>
+<div class="text-center p-4"><img class="img-fluid" src="../img/iconbanner.jpeg"></div>
 
 ### Welcome to Our Iconography Exploration Project
 🌟 The Journey Unveiled
@@ -50,4 +50,4 @@ Earth's Dual Nature: The alligator, often perceived as fearsome, embodies the du
 In this journey of exploring these iconic symbols, I've gained a newfound appreciation for the depth and richness they bring to various cultures. Each carving not only captures the intricate details of these symbols but also encapsulates the stories and meanings that have shaped civilizations across time.
 
  
-### Final Project Video: <a href="https://drive.google.com/file/d/1AMUlwmfXLAlbsFCHz1iUQnkDxfOobfk0/view?usp=sharing">My Methodology</a>
+ Final Project Video: <a href="https://drive.google.com/file/d/1AMUlwmfXLAlbsFCHz1iUQnkDxfOobfk0/view?usp=sharing">**My Methodology**</a>
