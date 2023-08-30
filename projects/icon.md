@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/icon.jpeg
+image: img/wordcloud.jpg
 title: "Welcome to Our Iconography Exploration Project"
 date: 2021
 published: true
