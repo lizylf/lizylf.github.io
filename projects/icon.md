@@ -10,24 +10,26 @@ labels:
   - Culture
   - Religion
   - Goddesses
-summary: "Dive into the world of goddesses through our captivating project!."
+summary: "Dive into the world of goddesses through our captivating project!"
 ---
 
-<div class="text-center p-4"><img class="img-fluid" src="../img/iconbanner.jpeg"></div>
+<div class="text-center p-4"><img class="img-fluid" src="../img/iconbanner.jpeg"height="1920" width="1140" >
+></div>
 
-### Welcome to Our Iconography Exploration Project
-🌟 The Journey Unveiled
-Welcome to our project on Iconographies and their virtual representations! 🎉 In this captivating journey, we've delved into the rich tapestry of cultures, spanning China, Taiwan, India, Aotearoa, Hawaii, Native America, the Arctic, and Mesoamerica. Through the enchanting medium of clay carving, we've brought these symbolic treasures to life.
+### Welcome to my Iconography Exploration Project
+**🌟 The Journey Unveiled**
+
+In this captivating journey, we've delved into the rich tapestry of cultures, spanning China, Taiwan, India, Aotearoa, Hawaii, Native America, the Arctic, and Mesoamerica. I've brought these symbolic treasures to life through the enchanting medium of clay carving.
 
 **Crafting Representation:**
-In this project, I decided to create a video showcasing the intricate process of hand-carving various iconic symbols that hold deep cultural meanings. In this project, I carefully selected symbols from different cultures such as China and Taiwan, India, Aotearoa, Hawaii, Native America, the Arctic, and Mesoamerica. To bring these symbols to life, I chose the art of clay carving as my preferred method. Throughout the video, I take the opportunity to narrate the profound significance behind each iconography.
+I created a video showcasing the intricate process of hand-carving various iconic symbols with deep cultural meanings. In this project, I carefully selected symbols from different cultures, such as China and Taiwan, India, Aotearoa, Hawaii, Native America, the Arctic, and Mesoamerica. To bring these symbols to life, I chose the art of clay carving as my preferred method. Throughout the video, I take the opportunity to narrate the profound significance behind each iconography.
 
 
 **🌸 Yin Symbol: Unveiling Feminine Cosmic Power**
-As I carve the Yin symbol, I'm reminded of the cosmic power it embodies. This power finds its form in Shiiwang mu, who flawlessly encompasses three distinct roles. Through her leadership, she exemplifies femininity with unwavering strength, assertiveness, and authority. Her portrayal reflects the appreciation of the female form as a microcosm of the universe, and she also symbolizes the potency of female sexuality that fosters health, vitality, and beauty. Exploring the Yin Yang symbol through this lens has truly shifted my perspective, as it reveals the depth of its representation of femininity and cosmic balance.
+As I carve the Yin symbol, I'm reminded of the cosmic power it embodies. This power forms in Shiiwang mu, who flawlessly encompasses three distinct roles. Through her leadership, she exemplifies femininity with unwavering strength, assertiveness, and authority. Her portrayal reflects the appreciation of the female form as a microcosm of the universe, and she also symbolizes the potency of female sexuality that fosters health, vitality, and beauty. Exploring the Yin Yang symbol through this lens has truly shifted my perspective, as it reveals the depth of its representation of femininity and cosmic balance.
 
 **🌼 Lotus: Blooming Amidst Adversity**
-Blooming Amidst Adversity: The lotus, a symbol cherished in Hinduism and Buddhism, has captivated my admiration. Observing the lotus emerge from muddy waters into a pristine bloom mirrors life's journey. It signifies spiritual transcendence from the material world, as beings of enlightenment sit atop it. The lotus's ability to remain unblemished despite its muddy origins speaks volumes about resilience and purity. This newfound perspective encourages me to embrace life's challenges, knowing that beauty can arise from even the murkiest circumstances.
+The lotus, a symbol cherished in Hinduism and Buddhism, has captivated my admiration. Observing the lotus emerge from muddy waters into a pristine bloom mirrors life's journey. It signifies spiritual transcendence from the material world, as enlightened beings sit atop it. The lotus's ability to remain unblemished despite its muddy origins speaks volumes about resilience and purity. This newfound perspective encourages me to embrace life's challenges, knowing that beauty can arise from even the murkiest circumstances.
 
 
 **🔥 Fire: Stories in Flames**
@@ -50,4 +52,4 @@ Earth's Dual Nature: The alligator, often perceived as fearsome, embodies the du
 In this journey of exploring these iconic symbols, I've gained a newfound appreciation for the depth and richness they bring to various cultures. Each carving not only captures the intricate details of these symbols but also encapsulates the stories and meanings that have shaped civilizations across time.
 
  
- Final Project Video: <a href="https://drive.google.com/file/d/1AMUlwmfXLAlbsFCHz1iUQnkDxfOobfk0/view?usp=sharing">**My Methodology**</a>
+Video: <a href="https://drive.google.com/file/d/1AMUlwmfXLAlbsFCHz1iUQnkDxfOobfk0/view?usp=sharing">**Final Project**</a>
