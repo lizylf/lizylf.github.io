@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Fish.jpeg
+image: img/fish.jpeg
 title: "Fishing Game"
 date: 2021
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "Final Project for my ICS 211 class."
 ---
 
-<div class="text-center p-4"><img class="img-fluid" src="../img/fishing.jpg"></div>
+<div class="text-center p-4"><img class="img-fluid" src="../img/bannerfish.jpg"></div>
 
   In my final project for my ICS 211 class, I collaborated with two teammates to create an engaging fishing game that aimed to simulate the excitement of a fishing tournament. The game was designed to be played by two alternating players on the same computer, with each player attempting to catch fish and build a "sack" of fish. The game followed a structured set of rules and mechanics to ensure an immersive and competitive experience.
 The project encompassed three distinct phases: Loko i'a (Fish Pond) Setup, Lawai'a (Fishing), and Game Over.
