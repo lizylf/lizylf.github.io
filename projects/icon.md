@@ -13,8 +13,7 @@ labels:
 summary: "Dive into the world of goddesses through our captivating project!"
 ---
 
-<div class="text-center p-4"><img class="img-fluid" src="../img/iconbanner.jpeg"height="1920" width="1140" >
-></div>
+<div class="text-center p-4"><img class="img-fluid" src="../img/iconbanner.jpeg"height="1080" width="2560" ></div>
 
 ### Welcome to my Iconography Exploration Project
 **🌟 The Journey Unveiled**
