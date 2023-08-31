@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": { "1137 Kamehameha IV Road": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "lizy", "url": "http://github.com/lizylf" },
+      { "network": "github", "username": "lizylf", "url": "http://github.com/lizylf" },
       { "network": "linkedin", "username": "lizyl-failano", "url": "https://www.linkedin.com/in/lizyl-failano-33aa29289/" },
      
     ]
@@ -84,10 +84,13 @@
       "endDate": "2023",
       "summary": "The annual event, hosted by Kapiolani Community College, showcases student research and provides valuable research experiences.",
       "highlights": [
-        "The STEM Undergraduate Research Fair (S.U.R.F.) highlights STEM Program students'",
-        "research in various disciplines, including expanded fields like Communications and ",
-        "Economics. It includes oral presentations for conference practice and offers a chance for ",
-        "campus-wide engagement."
+        "Guidance: Assist presenters with last-minute instructions and ensure a smooth transition between speakers.",
+        "Presentation Setup: Prepare presentation rooms for student researchers to showcase their projects.",
+        "Technical Support: Address and resolve any technical issues with AV equipment or materials.",
+        "Audience Support: Help attendees find seats, distribute materials, and answer questions.",
+        "Time Management: Keep presentations on schedule, manage Q&A sessions.",
+        "Order and Environment: Maintain an organized and conducive presentation environment.",
+        "Emergency Response: Guide attendees in case of emergencies or unexpected situations."
       ]
     },
   
