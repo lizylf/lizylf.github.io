@@ -48,7 +48,7 @@ When you engage with Nao, it's like having a conversation with a knowledgeable f
 🍵 Embark on a journey of taste and wellness as you explore different types of tea. Nao will guide you through the options. Looking for health benefits? You can choose from varieties like Gyokuro, Dragon Well, Matcha, or Keemun Tea. Craving unique flavors? Delve into the subtleties of Mild teas like White Hair Silver Needle and Golden Monkey Tea or the boldness of Strong teas like Lapsang Souchong, Pu-erh Tea, and Sencha. Seeking tranquility? Nao has stress-relieving options like Jasmine Silver Needle and Jasmine Green Tea. And if you need a caffeine boost, venture into the world of Low or High caffeine content teas. Nao's here to make your tea choices an experience in themselves.
 
 **Juice Jubilee:**
-🍹 Dive into the world of vibrant juices, each bursting with its own personality. Nao proudly presents options like zesty Orange Juice, tangy Lemonade Juice, sweet Grape Juice, tangy Cranberry Juice, rejuvenating Tomato Juice, indulgent Prune Juice, and the exotic allure of Pomegranate Juice. It's like a rainbow of flavors ready to tantalize your taste buds.
+🍹 Let's get into the world of vibrant juices, each bursting with its own personality. Nao proudly presents options like zesty Orange Juice, tangy Lemonade Juice, sweet Grape Juice, tangy Cranberry Juice, rejuvenating Tomato Juice, indulgent Prune Juice, and the exotic allure of Pomegranate Juice. It's like a rainbow of flavors ready to tantalize your taste buds.
 
 **Coffee Quest:**
 ☕ For coffee enthusiasts, Nao serves as your trusty guide through the realms of coffee magic. Do you crave the warmth of a hot cup? Nao offers choices like Black Coffee, Americano, Espresso, Doppio, or Red Eye. And if you're on Team Milk, there's a Latte, Cappuccino, Macchiato, Mocha, Flat White, or Affogato to choose from. But wait, there's more! The iced coffee aficionados are in for a treat with options like Iced Espresso, Cold Brew, Frappuccino, Nitro, or the invigorating Mazagran.
@@ -59,7 +59,7 @@ This innovative project isn't just about the drinks; it's about exploring possib
 ---
 
 ### Programming Insights: 
-Although I didn't dive into personally coding the Python scripts for execution, I was able to harness the incredible power of Choregraphe's preprogrammed functionalities. Imagine it like this – I stepped into the role of a conductor, orchestrating NAO's performance.
+Although I didn't get into personally coding the Python scripts for execution, I was able to harness the incredible power of Choregraphe's preprogrammed functionalities. Imagine it like this – I stepped into the role of a conductor, orchestrating NAO's performance.
 
 
 To start, I used the Speech > Creation > Animated Say box as my magic wand to craft dialogues that NAO would deliver with flair. It's as if NAO became the star of its own show, asking questions and engaging the audience in an interactive dance of words.
