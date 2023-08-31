@@ -24,7 +24,7 @@ In this captivating journey, we've explored into the rich tapestry of cultures, 
 I created a video showcasing the intricate process of hand-carving various iconic symbols with deep cultural meanings. In this project, I carefully selected symbols from different cultures, such as China and Taiwan, India, Aotearoa, Hawaii, Native America, the Arctic, and Mesoamerica. To bring these symbols to life, I chose the art of clay carving as my preferred method. Throughout the video, I take the opportunity to narrate the profound significance behind each iconography.
 
 
-**🌸 Yin Symbol: Unveiling Feminine Cosmic Power**
+**🌑 Yin Symbol: Unveiling Feminine Cosmic Power**
 
 
 The cosmic power of yin is embodied/ by Shiiwang mu through her perfect fulfillment of three distinct roles. The first involves her representation of femininity as a distinguished leader with superior abilities delivered through powerful feminine assertiveness and competent authority. Second, she embodies an appreciation of the female body, particularly in terms of cosmic yin within the body, which is viewed as a replica of the larger universe. In her third role, she exemplifies the power of female sexuality by leveraging it to enhance her feminine inner essences leading to an increase in health, vitality, and beauty.
@@ -65,7 +65,7 @@ The Cherokee deity who is the sun is known as Six Killer. A major function of th
 * Sun is bright, and we need it to live. I find it fascinating how clever Cherokee uses the sun to measure time and calendar and determine the seasons for the best time to farm and for ceremonial purposes. 
 
 
-**🔆 Comb: Restoring Harmony**
+**🖌️ Comb: Restoring Harmony**
 
 
 For the Inuit, their Sea Mother is most commonly known in Western studies of sacred stories and religion as Sedna. She controls all the hunted sea animals/ that the Inuit need to survive. If humans do not treat these animals with respect and honor them through the appropriate rituals, then the Sea Mother withholds them from human access. In order to appease her when she is upset with humans, a shaman will venture to the bottom, of the sea where she resides. Once the shaman arrives, she or he will comb her hair which has been tangled by the misdeeds of humans. This is especially pleasing to her because this particular goddess has lost all her fingers and so she is not able to grasp a comb herself. After being appeased by the shaman in this manner, she returns the animals to be hunted again.
