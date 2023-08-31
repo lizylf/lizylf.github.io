@@ -84,5 +84,9 @@ The earth itself embodies the Nahua concepts of duality and fluidity through its
 
 In this journey of exploring these iconic symbols, I've gained a newfound appreciation for the depth and richness they bring to various cultures. Each carving not only captures the intricate details of these symbols but also encapsulates the stories and meanings that have shaped civilizations across time.
 
- 
+<div class="text-center p-4">
+  <img width="200px" src="../img/clay.PNG" class="img-thumbnail">
+  <img width="200px" src="../img/clay2.PNG" class="img-thumbnail">
+</div>
+
 Video: <a href="https://drive.google.com/file/d/1AMUlwmfXLAlbsFCHz1iUQnkDxfOobfk0/view?usp=sharing">**Final Project**</a>
