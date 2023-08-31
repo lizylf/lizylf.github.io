@@ -86,8 +86,8 @@ In this journey of exploring these iconic symbols, I've gained a newfound apprec
 
 Video: <a href="https://drive.google.com/file/d/1AMUlwmfXLAlbsFCHz1iUQnkDxfOobfk0/view?usp=sharing">**Final Project**</a>
 <div class="text-center p-4">
-  <img width="384px" height="150px" src="../img/clay.PNG" class="img-thumbnail">
-  <img width="384px" height="150px" src="../img/clay2.PNG" class="img-thumbnail">
+  <img src="../img/c1.png" class="img-thumbnail">
+  <img src="../img/c2.png" class="img-thumbnail">
 </div>
 
 
