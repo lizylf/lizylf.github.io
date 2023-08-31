@@ -19,7 +19,7 @@ At its heart, software engineering is about solving problems using clever algori
 
 
 
-However, software engineering isn't a solo adventure; it's a team effort where developers, designers, and others work together to create cool things. As I move forward, I'm eager to improve my communication skills to explain tricky technical stuff in a way that makes sense to everyone. I'm also excited about learning how to work in an agile way, which is like being able to change your plans quickly and work well with others. This way, I can get better at hearing feedback and improving things.<img width="270px" class="rounded float-start pe-4" src="../img/learn.PNG">
+However, software engineering isn't a solo adventure; it's a team effort where developers, designers, and others work together to create cool things. As I move forward, I'm eager to improve my communication skills to explain tricky technical stuff in a way that makes sense to everyone. I'm also excited about learning how to work in an agile way, which is like being able to change your plans quickly and work well with others. This way, I can get better at hearing feedback and improving things.
 
 
 Thinking about the future, I know software engineering changes fast, with new things happening constantly. I'm not just interested in learning about the latest stuff; I want to be someone who keeps learning and growing forever. I'll read blogs, take online classes, and join discussions to ensure I know what's new and how to use it. I also dream about helping with open-source projects, where everyone works together to build things anyone can use. This will help me learn new stuff and become even better at solving real problems.
