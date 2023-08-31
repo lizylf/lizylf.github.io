@@ -18,7 +18,7 @@ summary: "Dive into the world of goddesses through my captivating project!"
 
 ### **🌟 The Journey Unveiled**
 
-In this captivating journey, we've delved into the rich tapestry of cultures, spanning China, Taiwan, India, Aotearoa, Hawaii, Native America, the Arctic, and Mesoamerica. I've brought these symbolic treasures to life through the enchanting medium of clay carving.
+In this captivating journey, we've explored into the rich tapestry of cultures, spanning China, Taiwan, India, Aotearoa, Hawaii, Native America, the Arctic, and Mesoamerica. I've brought these symbolic treasures to life through the enchanting medium of clay carving.
 
 **Crafting Representation:**
 I created a video showcasing the intricate process of hand-carving various iconic symbols with deep cultural meanings. In this project, I carefully selected symbols from different cultures, such as China and Taiwan, India, Aotearoa, Hawaii, Native America, the Arctic, and Mesoamerica. To bring these symbols to life, I chose the art of clay carving as my preferred method. Throughout the video, I take the opportunity to narrate the profound significance behind each iconography.
