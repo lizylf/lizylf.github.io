@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Mastering the Art of Asking Questions in Software Engineering: Learning from Good and Not-So-Good Examples"
+title: "Mastering the Art of Asking Questions: Learning from Good and Not-So-Good Examples"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
 published: true
