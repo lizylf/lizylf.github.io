@@ -10,7 +10,7 @@ labels:
   - Culture
   - Religion
   - Goddesses
-summary: "Dive into the world of goddesses through my captivating project!"
+summary: "Immerse yourself into the world of goddesses through my captivating project!"
 ---
 
 <div class="text-center p-4"><img class="img-fluid" src="../img/iconbanner.png" > </div>
