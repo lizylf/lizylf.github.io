@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/?.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/question.jpeg">
 
 ### **The Art of Pinging for Help**
 
