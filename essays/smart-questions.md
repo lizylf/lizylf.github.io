@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/question.jpeg">
 
-### **The Art of Pinging for Help**
+
 
 Picture this:  You're deep into a complex software project, working hard with coffee as your companion, your keyboard making music like an old-fashioned typewriter. But suddenly, a roadblock appears like a detour on a trip, stopping your progress. What should you, as a coder, do when this happens? No worries – you're not alone in this coding adventure.
 
