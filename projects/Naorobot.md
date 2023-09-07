@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/NAO.jpg
+image: img/nao.jpg
 title: "RoboFizz: Unleashing Nao's Beverage Adventure!"
 date: 2022
 published: true
@@ -75,6 +75,6 @@ And here's the magical part – this process wasn't a one-time act. It was a rep
 Working with NAO was tricky because people talk differently, making it hard for the robot to understand sometimes. But we found ways to improve it by changing how we talk, like talking faster or slower. Also, we had to make sure our words were spelled right, or the robot wouldn't work correctly.
 If you're curious and ready for some fun, watch my video. You'll see Nao, the robot, doing some really cool stuff for this project. This project wasn't just a project; it was my gateway to understanding the world of robots, AI, and the thrill of creative problem-solving.
 
-  Youtube video: <a href = "https://www.youtube.com/watch?v=hreQpa4dhlA">  "Programming for Basic Artificial Intelligence using NAO Robots and Choregraphe"</a>
+  ## **Youtube video:** <a href = "https://www.youtube.com/watch?v=hreQpa4dhlA">  "Programming for Basic Artificial Intelligence using NAO Robots and Choregraphe"</a>
 
 
