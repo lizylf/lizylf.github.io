@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fishprof.jpg
+image: img/FISH.jpg
 title: "Fishing Game"
 date: 2021
 published: true
