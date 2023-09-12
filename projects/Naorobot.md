@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/nao.jpg
+image: img/n.jpg
 title: "RoboFizz: Unleashing Nao's Beverage Adventure!"
 date: 2022
 published: true
