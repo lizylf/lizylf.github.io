@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/word.jpg
+image: img/w.jpg
 title: "Iconography Exploration"
 date: 2021
 published: true
