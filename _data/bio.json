@@ -59,6 +59,19 @@
       ]
     },
     {
+      "company": "Kapiolani Community College - STEM Center",
+      "position": "ICS Peer Mentor",
+      "website": "https://kccstem.com/peer-mentoring/",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "'Imi Na'auao STEM Peer Mentor for ICS, Spring 2023",
+      "highlights": [
+        "Support students in STEM courses (ICS 111, ICS 141, ICS 211, ICS 212) by aiding comprehension of course materials, offering assignment/project guidance, and promoting collaborative learning.",
+        "Foster student growth, achievement, and professional development in alignment with the principle of ʻimi naʻauao (seeking knowledge)",
+        "Facilitate mentor and mentee success in their STEM education journey, cultivating a supportive, knowledge-sharing community at Kapiʻolani Community College.",
+      ]
+    },
+    {
       "company": "ABC Stores",
       "position": "Point of Sale Specialist",
       "website": "https://abcstores.com/",
@@ -72,19 +85,7 @@
         "Support strategic initiatives through admin tasks and communication."
       ]
     },
-    {
-      "company": "Kapiolani Community College - STEM Center",
-      "position": "ICS Peer Mentor",
-      "website": "https://kccstem.com/peer-mentoring/",
-      "startDate": "2023",
-      "endDate": "2023",
-      "summary": "'Imi Na'auao STEM Peer Mentor for ICS, Spring 2023",
-      "highlights": [
-        "Support students in STEM courses (ICS 111, ICS 141, ICS 211, ICS 212) by aiding comprehension of course materials, offering assignment/project guidance, and promoting collaborative learning.",
-        "Foster student growth, achievement, and professional development in alignment with the principle of ʻimi naʻauao (seeking knowledge)",
-        "Facilitate mentor and mentee success in their STEM education journey, cultivating a supportive, knowledge-sharing community at Kapiʻolani Community College.",
-             ]
-    }
+
   ],
   "volunteer": [
     {
