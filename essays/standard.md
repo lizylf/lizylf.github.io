@@ -56,9 +56,12 @@ Now, let's talk about how these coding rules can be like training wheels when yo
 
 So, here's what happened when I used a cool tool called ESLint with IntelliJ for a week:
 
+
 **A Bit Tough, But Helpful:** Imagine you're trying to score points in a game, and it's a bit challenging at first. ESLint can be like that – it points out things in your code that need fixing. It might feel a little tough, but it's like a coach helping you get better.
 
+
 **Learning Together:** ESLint isn't just a coach; it's also like a teacher. It explains why something is wrong and how to make it right. It's like having a buddy who shows you the ropes.
+
 
 **Teamwork Wins:** When you and your friends play together, following the same rules makes the game fair and fun. ESLint does that for your coding team. It helps everyone follow the same rules and work together smoothly.
 
