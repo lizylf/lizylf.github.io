@@ -12,7 +12,7 @@ labels:
   - ESLint
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/stand.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/stand.jpg">
 
 
 Let's chat about something that sounds boring initially but is super important and quite cool: coding rules, like arranging your code neatly and where to put certain symbols.
