@@ -45,17 +45,29 @@
   ],
   "work": [
     {
+      "company": "Department of Law Enforcement",
+      "position": "Pre-audit II",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Accounting Staff for Fiscal Office",
+      "highlights": [
+        "Examine vouchered claims against the State to ensure appropriateness and compliance with laws and regulations.",
+        "Review payroll claims for compliance with established laws and policies.",
+        "Supervise or participate in clerical pre-auditing for vouchered and payroll claims, ensuring adherence to various regulations.",
+      ]
+    },
+    {
       "company": "Department of Public Safety",
       "position": "Pre-audit",
       "website": "https://dps.hawaii.gov/",
       "startDate": "2021",
-      "endDate": "Present",
+      "endDate": "2023",
       "summary": "Accounting Staff for Fiscal Office",
       "highlights": [
           "Examine vouchered claims against the State to ensure appropriateness and compliance with laws and regulations.",
           "Review payroll claims for compliance with established laws and policies.",
           "Supervise or participate in clerical pre-auditing for vouchered and payroll claims, ensuring adherence to various regulations.",
-        
+
       ]
     },
     {
