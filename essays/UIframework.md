@@ -4,7 +4,7 @@ type: essay
 title: "Understanding UI Frameworks: My Journey with Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-03
-published: false
+published: true
 labels:
   - UI Framework
   - Bootstrap 5
