@@ -11,7 +11,7 @@ labels:
   - Coding Practices
 ---
 
-<img width="650px" class="rounded float-start pe-4" src="../img/mqdefault.jpg">
+<img width="450px" class="rounded float-start pe-4" src="../img/mqdefault.jpg">
 
 
 
@@ -44,4 +44,3 @@ the Composite pattern lets you create a symphony of components. Each plays its p
 
 To sum it up, design patterns are like the seasoned players in our code symphony. I use them to make my code strong and flexible, just like a maestro uses musical techniques to make a song beautiful. The Observer pattern, for instance, helps me keep my user interface updated with the latest information, ensuring everyone is in sync.
 On the other hand, the Singleton pattern ensures I have only one instance of a class when I need to control a resource centrally. So, when I'm asked about design patterns in an interview, I don't just talk tech – I share stories of a coding adventure where patterns are like magic spells, making the jungle of coding a fun and creative place to explore.
----
