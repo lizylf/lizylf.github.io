@@ -11,7 +11,7 @@ labels:
   - Ethics in Software Engineering
 ---
 
-<img width="750px" class="rounded float-start pe-4" src="../img/done.jpg">
+<img width="750px" class="rounded float-start pe-4" src="../img/done.png">
 
 
 
