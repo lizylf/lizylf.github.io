@@ -4,7 +4,7 @@ type: essay
 title: "The A.I. Conundrum in Schools: Juggling Wonders, Pitfalls, and the Pursuit of Balanced Learning"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-19
-published: true
+published: false
 labels:
   - Artificial Intelligence
   - Programming

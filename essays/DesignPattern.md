@@ -4,7 +4,7 @@ type: essay
 title: "A Journey Through Code Symphonies and Harmonious Solutions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-26
-published: true
+published: false
 labels:
   - Software Development
   - Design Patterns
