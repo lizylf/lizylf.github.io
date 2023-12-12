@@ -4,7 +4,7 @@ type: project
 image: img/w.jpg
 title: "Iconography Exploration"
 date: 2021
-published: true
+published: false
 labels:
   - Iconographies
   - Culture
