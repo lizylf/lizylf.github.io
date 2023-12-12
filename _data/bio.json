@@ -24,11 +24,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Linux", "HTML", "ReactJS", "Meteor", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Command Line Interface" ]
     }
   ],
   "education": [
@@ -42,8 +42,8 @@
     {
 
     "institution": "Kapiolani Community College, Honolulu, HI",
-      "area": "Natural Science, Information & Communication Technology",
-      "studyType": "A.S",
+      "area": "Natural Science-Information & Communication Technology",
+      "studyType": "A.S.",
       "startDate": "2021",
       "endDate": "2023"
     }
