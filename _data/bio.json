@@ -10,7 +10,7 @@
     "location": { "1137 Kamehameha IV Road": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "lizylf", "url": "http://github.com/lizylf" },
-      { "network": "linkedin", "username": "lizyl-failano", "url": "https://www.linkedin.com/in/lizyl-failano-33aa29289/" },
+      { "network": "linkedin", "username": "lizyl-failano", "url": "https://www.linkedin.com/in/lizyl-failano-33aa29289/" }
      
     ]
   },
@@ -36,11 +36,16 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2024)",
       "studyType": "B.S.",
+      "startDate": "2023",
+      "endDate": "Present"
+    },
+    {
+
+    "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Natural Science, Information & Communication Technology",
+      "studyType": "A.S",
       "startDate": "2021",
-      "endDate": "Present",
-      
-    
-      
+      "endDate": "2023"
     }
   ],
   "work": [
@@ -53,7 +58,7 @@
       "highlights": [
         "Examine vouchered claims against the State to ensure appropriateness and compliance with laws and regulations.",
         "Review payroll claims for compliance with established laws and policies.",
-        "Supervise or participate in clerical pre-auditing for vouchered and payroll claims, ensuring adherence to various regulations.",
+        "Supervise or participate in clerical pre-auditing for vouchered and payroll claims, ensuring adherence to various regulations."
       ]
     },
     {
@@ -66,7 +71,7 @@
       "highlights": [
           "Examine vouchered claims against the State to ensure appropriateness and compliance with laws and regulations.",
           "Review payroll claims for compliance with established laws and policies.",
-          "Supervise or participate in clerical pre-auditing for vouchered and payroll claims, ensuring adherence to various regulations.",
+          "Supervise or participate in clerical pre-auditing for vouchered and payroll claims, ensuring adherence to various regulations."
 
       ]
     },
@@ -79,7 +84,7 @@
       "summary": "'Imi Na'auao STEM Peer Mentor for ICS, Spring 2023",
       "highlights": [
         "Support students in STEM courses (ICS 111, ICS 141, ICS 211, ICS 212) by aiding comprehension of course materials, offering assignment/project guidance, and promoting collaborative learning.",
-        "Foster student growth, achievement, and professional development in alignment with the principle of ʻimi naʻauao (seeking knowledge)",
+        "Foster student growth, achievement, and professional development in alignment with the principle of ʻimi naʻauao (seeking knowledge)"
       ]
     },
     {
@@ -95,7 +100,7 @@
         "Manage SKU, PLU, UPC information",
         "Support strategic initiatives through admin tasks and communication."
       ]
-    },
+    }
 
   ],
   "volunteer": [
@@ -110,9 +115,9 @@
         "Guidance: Assist presenters with last-minute instructions and ensure a smooth transition between speakers.",
         "Presentation Setup: Prepare presentation rooms for student researchers to showcase their projects.",
         "Technical Support: Address and resolve any technical issues with AV equipment or materials.",
-        "Order and Environment: Maintain an organized and conducive presentation environment.",
+        "Order and Environment: Maintain an organized and conducive presentation environment."
       ]
-    },
+    }
   
   ],
 
