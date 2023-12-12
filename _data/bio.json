@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Lizyl Failano",
+    "label": "Student",
+    "picture": "https://github.com/lizylf.png",
+    "email": "lizylf@hawaii.edu",
+    
+    "website": "https://lizylf.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "1137 Kamehameha IV Road": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "lizylf", "url": "http://github.com/lizylf" },
+      { "network": "linkedin", "username": "lizyl-failano", "url": "https://www.linkedin.com/in/lizyl-failano-33aa29289/" }
+     
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineer" },
+    { "name": "Web Development" },
+    { "name": "Cybersecurity" },
+    { "name": "Robotics" },
+    { "name": "Artificial Intelligence" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Linux", "HTML", "ReactJS", "Meteor", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Git/GitHub", "Command Line Interface" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2023",
+      "endDate": "Present"
+    },
+    {
+
+    "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Natural Science-Information & Communication Technology",
+      "studyType": "A.S.",
+      "startDate": "2021",
+      "endDate": "2023"
+    }
+  ],
+  "work": [
+    {
+      "company": "Department of Law Enforcement",
+      "position": "Pre-audit II",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Accounting Staff for Fiscal Office",
+      "highlights": [
+        "Examine vouchered claims against the State to ensure appropriateness and compliance with laws and regulations.",
+        "Review payroll claims for compliance with established laws and policies.",
+        "Supervise or participate in clerical pre-auditing for vouchered and payroll claims, ensuring adherence to various regulations."
+      ]
+    },
+    {
+      "company": "Department of Public Safety",
+      "position": "Pre-audit",
+      "website": "https://dps.hawaii.gov/",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Accounting Staff for Fiscal Office",
+      "highlights": [
+          "Examine vouchered claims against the State to ensure appropriateness and compliance with laws and regulations.",
+          "Review payroll claims for compliance with established laws and policies.",
+          "Supervise or participate in clerical pre-auditing for vouchered and payroll claims, ensuring adherence to various regulations."
+
+      ]
+    },
+    {
+      "company": "Kapiolani Community College - STEM Center",
+      "position": "ICS Peer Mentor",
+      "website": "https://kccstem.com/peer-mentoring/",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "'Imi Na'auao STEM Peer Mentor for ICS, Spring 2023",
+      "highlights": [
+        "Support students in STEM courses (ICS 111, ICS 141, ICS 211, ICS 212) by aiding comprehension of course materials, offering assignment/project guidance, and promoting collaborative learning.",
+        "Foster student growth, achievement, and professional development in alignment with the principle of ʻimi naʻauao (seeking knowledge)"
+      ]
+    },
+    {
+      "company": "ABC Stores",
+      "position": "Point of Sale Specialist",
+      "website": "https://abcstores.com/",
+      "startDate": "2016",
+      "endDate": "2021",
+      "summary": "IT Staff for Corporate Office",
+      "highlights": [
+        "Maintain accurate merchandise data across POS systems",
+        "Generate reports and ensure timely updates",
+        "Manage SKU, PLU, UPC information",
+        "Support strategic initiatives through admin tasks and communication."
+      ]
+    }
+
+  ],
+  "volunteer": [
+    {
+      "organization": "Fall 2022 and Spring 2023 Student Undergraduate Research Fair (SURF)",
+      "website": "https://kapcc-research.wixsite.com/surf",
+      "position": "Student Room Facilitator",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "The annual event, hosted by Kapiolani Community College, showcases student research and provides valuable research experiences.",
+      "highlights": [
+        "Guidance: Assist presenters with last-minute instructions and ensure a smooth transition between speakers.",
+        "Presentation Setup: Prepare presentation rooms for student researchers to showcase their projects.",
+        "Technical Support: Address and resolve any technical issues with AV equipment or materials.",
+        "Order and Environment: Maintain an organized and conducive presentation environment."
+      ]
+    }
+  
+  ],
+
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
